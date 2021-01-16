@@ -69,3 +69,6 @@ To solve this problem, I used loading from the folder. All the needed assets are
 ![](/ProcedualGeneration/Assets/ExternalAssets/lava.png)
 ![](/ProcedualGeneration/Assets/ExternalAssets/space.png)
 ![](/ProcedualGeneration/Assets/ExternalAssets/forest.png)
+
+## Reference
+[Material Asset Used](https://assetstore.unity.com/packages/2d/textures-materials/floors/yughues-free-ground-materials-13001) 

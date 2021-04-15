@@ -1,4 +1,7 @@
 # ProceduralGeneration
+![GitHub](https://img.shields.io/github/license/Floneyyang/ProceduralGeneration)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Floneyyang/ProceduralGeneration)
+
 
 ## Overview
 
